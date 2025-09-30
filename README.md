@@ -177,10 +177,10 @@ int main(void)
     Lcd_HandleTypeDef lcd;
     lcd = Lcd_create(ports,pins,GPIOB,GPIO_PIN_0,GPIOB,GPIO_PIN_1,LCD_4_BIT_MODE);
     Lcd_cursor(&lcd, 0,0);
-    Lcd_string(&lcd, "SATHISH R");
+    Lcd_string(&lcd, "ANTHONY RAJ N");
 
     Lcd_cursor(&lcd,1,0);
-        Lcd_string(&lcd, "212222100048");
+        Lcd_string(&lcd, "212223230017");
         HAL_Delay(500);
   while (1)
   {
