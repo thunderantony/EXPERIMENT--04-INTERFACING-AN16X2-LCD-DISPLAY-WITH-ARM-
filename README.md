@@ -266,8 +266,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
-C:\Users\admin\OneDrive\Pictures\Screenshots\pmc 4.png
- 
+<img width="1024" height="747" alt="pmc 4" src="https://github.com/user-attachments/assets/72f9e09f-1ba6-4108-a6a0-2dcaa42b9783" />
+
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
  <img width="969" height="684" alt="lcd2" src="https://github.com/user-attachments/assets/3c0efd85-d9f5-45e9-80d4-0022ad041d46" />
