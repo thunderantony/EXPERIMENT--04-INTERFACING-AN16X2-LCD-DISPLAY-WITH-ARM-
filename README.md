@@ -180,7 +180,7 @@ int main(void)
     Lcd_string(&lcd, "ANTHONY RAJ N");
 
     Lcd_cursor(&lcd,1,0);
-        Lcd_string(&lcd, "212223230017");
+        Lcd_string(&lcd, "212223230047");
         HAL_Delay(500);
   while (1)
   {
@@ -266,7 +266,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 ## Output screen shots of proteus  :
- ![Uploading pmc 4.png…]()
+"C:\Users\admin\OneDrive\Pictures\Screenshots\pmc 4.png"
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
